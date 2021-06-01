@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://ott.bingebd.com/live/ngrp:sony_aath_720_all/playlist.m3u8
+https://ott.bingebd.com/live/ngrp:sony_aath_720_all/mainfest.mpd
