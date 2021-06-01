@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://ropontv.xyz/jio/auto.php?c=Sonic_Bangla&e=.m3u8
+https://ropontv.xyz/jio/auto.php?c=Sonic_Bangla&q=800&e=.m3u8
