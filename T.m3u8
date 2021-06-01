@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://mhdtvworld.xyz/delta/flix/max.php?id=38836&e=.m3u8
+http://103.153.39.34:8000/play/a04m/index.m3u8
