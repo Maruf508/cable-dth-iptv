@@ -1,11 +1,4 @@
-GET /thunderbd/10/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zLzIwMjEgODoxNDoyNiBBTSZoYXNoX3ZhbHVlPWlzTGFjSW12bzJPckg0WG4vTEplTnc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ== HTTP/1.1
-Host: tv.ebox.live:8081
-Connection: keep-alive
-Save-Data: on
-User-Agent: Mozilla/5.0 (Linux; Android 10; Redmi Note 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Mobile Safari/537.36
-Accept: */*
-Origin: http://tv.ebox.live
-Referer: http://tv.ebox.live/
-Accept-Encoding: gzip, deflate
-Accept-Language: en-US,en;q=0.9,bn;q=0.8
-
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2385648,RESOLUTION=1024x576,CODECS="avc1.64001f,mp4a.40.2"
+http://tv.ebox.live:8081/thunderbd/10/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8zLzIwMjEgODoxNDoyNiBBTSZoYXNoX3ZhbHVlPWlzTGFjSW12bzJPckg0WG4vTEplTnc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
