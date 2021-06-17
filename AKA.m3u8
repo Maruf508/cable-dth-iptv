@@ -1,1 +1,5 @@
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2327300
 http://172.32.1.88:1935/tvprogram/Duronto-TV/playlist.m3u8
