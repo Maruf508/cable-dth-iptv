@@ -1,3 +1,4 @@
-#EXTM3U
-#EXT-X-VERSION:3
-https://streamer-1.toffeelive.com/mobile_hls/?bitrate=1024000&channel=sony_sab_720&user=04dfcf51f5f17bc7739a41f294e2adbb/index.m3u8
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://vootapi.000webhostapp.com/rapid.php?url=http://b.mtfxg.xyz:8081/ind1/sonichindi/playlist.m3u8
